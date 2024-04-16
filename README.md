@@ -25,12 +25,12 @@
 3.Deleted expenses are moved to a temporary archive for a grace period, allowing users to recover them if needed.
 4.Expense Tracker offers an audit trail feature to track deleted expenses, providing transparency and accountability in financial management.
 
-  Technology Stack:
+      Technology Stack:
 
 Expense Tracker is built using Python and leverages frameworks and libraries such as Flask/Django for web development, SQLite/MySQL/PostgreSQL for data storage, and Matplotlib/Plotly/Seaborn for data visualization. 
 The application employs secure authentication mechanisms and adheres to best practices in data privacy and security.
 
-  Conclusion:
+      Conclusion:
 
 Expense Tracker provides a comprehensive solution for effective expense management, offering essential features such as adding, viewing, and deleting expenses in a user-friendly interface. 
 With its robust functionality, customization options, and data visualization capabilities, the application empowers users to take control of their finances, make informed decisions, and achieve their financial goals. 
